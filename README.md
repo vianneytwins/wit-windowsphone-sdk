@@ -11,7 +11,7 @@ The SDK can capture intents and entities:
 
 ## How to build
 
-Open the project and build the solution. Buld the project to compile the ARM dlls. 
+Open the project and build the solution. Build the project to compile the ARM dlls. 
 If you plan to use the emulator you would also need to build x86 dlls.
 
 ## How to use
